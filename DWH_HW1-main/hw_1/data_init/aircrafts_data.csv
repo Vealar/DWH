@@ -1,0 +1,247 @@
+aircraft_code;model;range
+ZBF;"{""model_name"": ""Boeing 737"", ""manufacturer"": ""Boeing"", ""capacity"": 180, ""year_of_manufacture"": 2016}";7000
+KVP;"{""model_name"": ""Airbus A320"", ""manufacturer"": ""Airbus"", ""capacity"": 150, ""year_of_manufacture"": 2015}";7000
+UUK;"{""model_name"": ""Airbus A380"", ""manufacturer"": ""Airbus"", ""capacity"": 500, ""year_of_manufacture"": 2014}";6000
+CIY;"{""model_name"": ""Boeing 737"", ""manufacturer"": ""Boeing"", ""capacity"": 180, ""year_of_manufacture"": 2016}";5800
+NZK;"{""model_name"": ""Bombardier CRJ-200"", ""manufacturer"": ""Bombardier"", ""capacity"": 50, ""year_of_manufacture"": 2015}";2500
+BXT;"{""model_name"": ""Bombardier Dash 8"", ""manufacturer"": ""Bombardier"", ""capacity"": 78, ""year_of_manufacture"": 2019}";5800
+DDN;"{""model_name"": ""Boeing 777"", ""manufacturer"": ""Boeing"", ""capacity"": 300, ""year_of_manufacture"": 2018}";6000
+IYO;"{""model_name"": ""Airbus A310"", ""manufacturer"": ""Airbus"", ""capacity"": 280, ""year_of_manufacture"": 2014}";2500
+HQY;"{""model_name"": ""Boeing 757"", ""manufacturer"": ""Boeing"", ""capacity"": 200, ""year_of_manufacture"": 2015}";8000
+DUH;"{""model_name"": ""Boeing 757"", ""manufacturer"": ""Boeing"", ""capacity"": 200, ""year_of_manufacture"": 2015}";3200
+DVZ;"{""model_name"": ""Boeing 757"", ""manufacturer"": ""Boeing"", ""capacity"": 200, ""year_of_manufacture"": 2015}";6000
+JQJ;"{""model_name"": ""Boeing 757"", ""manufacturer"": ""Boeing"", ""capacity"": 200, ""year_of_manufacture"": 2015}";1500
+MUR;"{""model_name"": ""Airbus A220"", ""manufacturer"": ""Airbus"", ""capacity"": 130, ""year_of_manufacture"": 2017}";4000
+SPA;"{""model_name"": ""McDonnell Douglas MD-80"", ""manufacturer"": ""McDonnell Douglas"", ""capacity"": 150, ""year_of_manufacture"": 2014}";4000
+TOR;"{""model_name"": ""Airbus A380"", ""manufacturer"": ""Airbus"", ""capacity"": 500, ""year_of_manufacture"": 2014}";3200
+VYN;"{""model_name"": ""McDonnell Douglas MD-80"", ""manufacturer"": ""McDonnell Douglas"", ""capacity"": 150, ""year_of_manufacture"": 2014}";7000
+YRF;"{""model_name"": ""Airbus A380"", ""manufacturer"": ""Airbus"", ""capacity"": 500, ""year_of_manufacture"": 2014}";3200
+SME;"{""model_name"": ""Boeing 787"", ""manufacturer"": ""Boeing"", ""capacity"": 240, ""year_of_manufacture"": 2017}";4000
+GOY;"{""model_name"": ""Boeing 787"", ""manufacturer"": ""Boeing"", ""capacity"": 240, ""year_of_manufacture"": 2017}";8000
+RVL;"{""model_name"": ""Boeing 757"", ""manufacturer"": ""Boeing"", ""capacity"": 200, ""year_of_manufacture"": 2015}";2500
+RXT;"{""model_name"": ""Bombardier Dash 8"", ""manufacturer"": ""Bombardier"", ""capacity"": 78, ""year_of_manufacture"": 2019}";5000
+SEU;"{""model_name"": ""Boeing 757"", ""manufacturer"": ""Boeing"", ""capacity"": 200, ""year_of_manufacture"": 2015}";3200
+DJZ;"{""model_name"": ""Boeing 787"", ""manufacturer"": ""Boeing"", ""capacity"": 240, ""year_of_manufacture"": 2017}";7000
+CFW;"{""model_name"": ""ATR 72"", ""manufacturer"": ""ATR"", ""capacity"": 70, ""year_of_manufacture"": 2018}";5800
+PIW;"{""model_name"": ""Boeing 787"", ""manufacturer"": ""Boeing"", ""capacity"": 240, ""year_of_manufacture"": 2017}";2000
+SEW;"{""model_name"": ""Airbus A310"", ""manufacturer"": ""Airbus"", ""capacity"": 280, ""year_of_manufacture"": 2014}";2500
+UCD;"{""model_name"": ""Airbus A310"", ""manufacturer"": ""Airbus"", ""capacity"": 280, ""year_of_manufacture"": 2014}";2000
+VUA;"{""model_name"": ""Bombardier CRJ-200"", ""manufacturer"": ""Bombardier"", ""capacity"": 50, ""year_of_manufacture"": 2015}";8000
+JNS;"{""model_name"": ""Airbus A320"", ""manufacturer"": ""Airbus"", ""capacity"": 150, ""year_of_manufacture"": 2015}";8000
+YWY;"{""model_name"": ""Embraer E190"", ""manufacturer"": ""Embraer"", ""capacity"": 100, ""year_of_manufacture"": 2016}";3500
+KGL;"{""model_name"": ""McDonnell Douglas MD-80"", ""manufacturer"": ""McDonnell Douglas"", ""capacity"": 150, ""year_of_manufacture"": 2014}";5800
+PKQ;"{""model_name"": ""Airbus A350"", ""manufacturer"": ""Airbus"", ""capacity"": 350, ""year_of_manufacture"": 2019}";8000
+QKE;"{""model_name"": ""Airbus A320"", ""manufacturer"": ""Airbus"", ""capacity"": 150, ""year_of_manufacture"": 2015}";3200
+SQE;"{""model_name"": ""Airbus A220"", ""manufacturer"": ""Airbus"", ""capacity"": 130, ""year_of_manufacture"": 2017}";8000
+KOL;"{""model_name"": ""Airbus A310"", ""manufacturer"": ""Airbus"", ""capacity"": 280, ""year_of_manufacture"": 2014}";8000
+OZG;"{""model_name"": ""Airbus A320"", ""manufacturer"": ""Airbus"", ""capacity"": 150, ""year_of_manufacture"": 2015}";8000
+UTF;"{""model_name"": ""Bombardier CRJ-200"", ""manufacturer"": ""Bombardier"", ""capacity"": 50, ""year_of_manufacture"": 2015}";3000
+DZT;"{""model_name"": ""Boeing 767"", ""manufacturer"": ""Boeing"", ""capacity"": 240, ""year_of_manufacture"": 2016}";3000
+UML;"{""model_name"": ""Boeing 777"", ""manufacturer"": ""Boeing"", ""capacity"": 300, ""year_of_manufacture"": 2018}";2500
+FZF;"{""model_name"": ""Bombardier Dash 8"", ""manufacturer"": ""Bombardier"", ""capacity"": 78, ""year_of_manufacture"": 2019}";3000
+YOO;"{""model_name"": ""Bombardier CRJ-200"", ""manufacturer"": ""Bombardier"", ""capacity"": 50, ""year_of_manufacture"": 2015}";4000
+PQJ;"{""model_name"": ""Boeing 757"", ""manufacturer"": ""Boeing"", ""capacity"": 200, ""year_of_manufacture"": 2015}";3000
+FNQ;"{""model_name"": ""ATR 72"", ""manufacturer"": ""ATR"", ""capacity"": 70, ""year_of_manufacture"": 2018}";5800
+POP;"{""model_name"": ""Boeing 737"", ""manufacturer"": ""Boeing"", ""capacity"": 180, ""year_of_manufacture"": 2016}";6000
+IBW;"{""model_name"": ""Boeing 737"", ""manufacturer"": ""Boeing"", ""capacity"": 180, ""year_of_manufacture"": 2016}";8000
+FAZ;"{""model_name"": ""Boeing 767"", ""manufacturer"": ""Boeing"", ""capacity"": 240, ""year_of_manufacture"": 2016}";5000
+ERP;"{""model_name"": ""Boeing 767"", ""manufacturer"": ""Boeing"", ""capacity"": 240, ""year_of_manufacture"": 2016}";2500
+QWJ;"{""model_name"": ""Boeing 777"", ""manufacturer"": ""Boeing"", ""capacity"": 300, ""year_of_manufacture"": 2018}";2900
+MXP;"{""model_name"": ""McDonnell Douglas MD-80"", ""manufacturer"": ""McDonnell Douglas"", ""capacity"": 150, ""year_of_manufacture"": 2014}";2500
+BIX;"{""model_name"": ""Boeing 757"", ""manufacturer"": ""Boeing"", ""capacity"": 200, ""year_of_manufacture"": 2015}";5800
+VKO;"{""model_name"": ""Boeing 757"", ""manufacturer"": ""Boeing"", ""capacity"": 200, ""year_of_manufacture"": 2015}";7000
+QBR;"{""model_name"": ""ATR 72"", ""manufacturer"": ""ATR"", ""capacity"": 70, ""year_of_manufacture"": 2018}";3200
+ZLU;"{""model_name"": ""ATR 72"", ""manufacturer"": ""ATR"", ""capacity"": 70, ""year_of_manufacture"": 2018}";3500
+QIV;"{""model_name"": ""Boeing 737"", ""manufacturer"": ""Boeing"", ""capacity"": 180, ""year_of_manufacture"": 2016}";2500
+FZE;"{""model_name"": ""Boeing 787"", ""manufacturer"": ""Boeing"", ""capacity"": 240, ""year_of_manufacture"": 2017}";8000
+VDJ;"{""model_name"": ""Boeing 737"", ""manufacturer"": ""Boeing"", ""capacity"": 180, ""year_of_manufacture"": 2016}";3000
+TOS;"{""model_name"": ""McDonnell Douglas MD-80"", ""manufacturer"": ""McDonnell Douglas"", ""capacity"": 150, ""year_of_manufacture"": 2014}";3200
+GUY;"{""model_name"": ""Boeing 757"", ""manufacturer"": ""Boeing"", ""capacity"": 200, ""year_of_manufacture"": 2015}";2500
+ZZZ;"{""model_name"": ""Bombardier CRJ-200"", ""manufacturer"": ""Bombardier"", ""capacity"": 50, ""year_of_manufacture"": 2015}";8000
+AEP;"{""model_name"": ""Boeing 767"", ""manufacturer"": ""Boeing"", ""capacity"": 240, ""year_of_manufacture"": 2016}";3200
+OXZ;"{""model_name"": ""McDonnell Douglas MD-80"", ""manufacturer"": ""McDonnell Douglas"", ""capacity"": 150, ""year_of_manufacture"": 2014}";2900
+DWM;"{""model_name"": ""Boeing 767"", ""manufacturer"": ""Boeing"", ""capacity"": 240, ""year_of_manufacture"": 2016}";4000
+LQX;"{""model_name"": ""McDonnell Douglas MD-80"", ""manufacturer"": ""McDonnell Douglas"", ""capacity"": 150, ""year_of_manufacture"": 2014}";3200
+XHO;"{""model_name"": ""Boeing 737"", ""manufacturer"": ""Boeing"", ""capacity"": 180, ""year_of_manufacture"": 2016}";4000
+CMN;"{""model_name"": ""ATR 72"", ""manufacturer"": ""ATR"", ""capacity"": 70, ""year_of_manufacture"": 2018}";2000
+ZSP;"{""model_name"": ""Boeing 777"", ""manufacturer"": ""Boeing"", ""capacity"": 300, ""year_of_manufacture"": 2018}";2500
+TPP;"{""model_name"": ""Boeing 737"", ""manufacturer"": ""Boeing"", ""capacity"": 180, ""year_of_manufacture"": 2016}";7000
+FAC;"{""model_name"": ""ATR 72"", ""manufacturer"": ""ATR"", ""capacity"": 70, ""year_of_manufacture"": 2018}";2900
+UNZ;"{""model_name"": ""Airbus A310"", ""manufacturer"": ""Airbus"", ""capacity"": 280, ""year_of_manufacture"": 2014}";8000
+QGB;"{""model_name"": ""Boeing 787"", ""manufacturer"": ""Boeing"", ""capacity"": 240, ""year_of_manufacture"": 2017}";6000
+JFJ;"{""model_name"": ""ATR 72"", ""manufacturer"": ""ATR"", ""capacity"": 70, ""year_of_manufacture"": 2018}";4000
+DUK;"{""model_name"": ""Boeing 767"", ""manufacturer"": ""Boeing"", ""capacity"": 240, ""year_of_manufacture"": 2016}";2500
+OQL;"{""model_name"": ""Airbus A320"", ""manufacturer"": ""Airbus"", ""capacity"": 150, ""year_of_manufacture"": 2015}";7000
+OAI;"{""model_name"": ""Boeing 787"", ""manufacturer"": ""Boeing"", ""capacity"": 240, ""year_of_manufacture"": 2017}";4000
+EUU;"{""model_name"": ""Boeing 737"", ""manufacturer"": ""Boeing"", ""capacity"": 180, ""year_of_manufacture"": 2016}";7000
+VZC;"{""model_name"": ""Boeing 737"", ""manufacturer"": ""Boeing"", ""capacity"": 180, ""year_of_manufacture"": 2016}";4000
+GWN;"{""model_name"": ""Bombardier CRJ-200"", ""manufacturer"": ""Bombardier"", ""capacity"": 50, ""year_of_manufacture"": 2015}";3000
+BNQ;"{""model_name"": ""Airbus A350"", ""manufacturer"": ""Airbus"", ""capacity"": 350, ""year_of_manufacture"": 2019}";2500
+LSM;"{""model_name"": ""Boeing 787"", ""manufacturer"": ""Boeing"", ""capacity"": 240, ""year_of_manufacture"": 2017}";2900
+FIA;"{""model_name"": ""Airbus A220"", ""manufacturer"": ""Airbus"", ""capacity"": 130, ""year_of_manufacture"": 2017}";5000
+XXG;"{""model_name"": ""Bombardier Dash 8"", ""manufacturer"": ""Bombardier"", ""capacity"": 78, ""year_of_manufacture"": 2019}";3000
+NYV;"{""model_name"": ""Airbus A380"", ""manufacturer"": ""Airbus"", ""capacity"": 500, ""year_of_manufacture"": 2014}";7000
+PCT;"{""model_name"": ""Bombardier CRJ-200"", ""manufacturer"": ""Bombardier"", ""capacity"": 50, ""year_of_manufacture"": 2015}";2000
+XAK;"{""model_name"": ""Airbus A350"", ""manufacturer"": ""Airbus"", ""capacity"": 350, ""year_of_manufacture"": 2019}";4000
+DVL;"{""model_name"": ""Embraer E190"", ""manufacturer"": ""Embraer"", ""capacity"": 100, ""year_of_manufacture"": 2016}";1500
+TJD;"{""model_name"": ""Boeing 787"", ""manufacturer"": ""Boeing"", ""capacity"": 240, ""year_of_manufacture"": 2017}";3500
+QIH;"{""model_name"": ""ATR 72"", ""manufacturer"": ""ATR"", ""capacity"": 70, ""year_of_manufacture"": 2018}";4000
+EXU;"{""model_name"": ""Airbus A320"", ""manufacturer"": ""Airbus"", ""capacity"": 150, ""year_of_manufacture"": 2015}";5000
+WLR;"{""model_name"": ""Boeing 787"", ""manufacturer"": ""Boeing"", ""capacity"": 240, ""year_of_manufacture"": 2017}";8000
+HIM;"{""model_name"": ""Embraer E190"", ""manufacturer"": ""Embraer"", ""capacity"": 100, ""year_of_manufacture"": 2016}";5000
+ZEJ;"{""model_name"": ""Boeing 767"", ""manufacturer"": ""Boeing"", ""capacity"": 240, ""year_of_manufacture"": 2016}";4000
+MHY;"{""model_name"": ""Boeing 777"", ""manufacturer"": ""Boeing"", ""capacity"": 300, ""year_of_manufacture"": 2018}";4000
+JRI;"{""model_name"": ""Boeing 737"", ""manufacturer"": ""Boeing"", ""capacity"": 180, ""year_of_manufacture"": 2016}";3200
+WJY;"{""model_name"": ""Boeing 787"", ""manufacturer"": ""Boeing"", ""capacity"": 240, ""year_of_manufacture"": 2017}";4000
+RKX;"{""model_name"": ""Boeing 757"", ""manufacturer"": ""Boeing"", ""capacity"": 200, ""year_of_manufacture"": 2015}";7000
+XGP;"{""model_name"": ""Boeing 737"", ""manufacturer"": ""Boeing"", ""capacity"": 180, ""year_of_manufacture"": 2016}";4000
+QEN;"{""model_name"": ""Airbus A310"", ""manufacturer"": ""Airbus"", ""capacity"": 280, ""year_of_manufacture"": 2014}";7000
+WVF;"{""model_name"": ""Airbus A380"", ""manufacturer"": ""Airbus"", ""capacity"": 500, ""year_of_manufacture"": 2014}";5800
+VAN;"{""model_name"": ""Embraer E190"", ""manufacturer"": ""Embraer"", ""capacity"": 100, ""year_of_manufacture"": 2016}";7000
+TOF;"{""model_name"": ""Boeing 757"", ""manufacturer"": ""Boeing"", ""capacity"": 200, ""year_of_manufacture"": 2015}";2500
+OWX;"{""model_name"": ""Boeing 777"", ""manufacturer"": ""Boeing"", ""capacity"": 300, ""year_of_manufacture"": 2018}";3200
+YRG;"{""model_name"": ""Airbus A380"", ""manufacturer"": ""Airbus"", ""capacity"": 500, ""year_of_manufacture"": 2014}";4000
+KFB;"{""model_name"": ""Boeing 767"", ""manufacturer"": ""Boeing"", ""capacity"": 240, ""year_of_manufacture"": 2016}";4000
+CVE;"{""model_name"": ""Boeing 767"", ""manufacturer"": ""Boeing"", ""capacity"": 240, ""year_of_manufacture"": 2016}";8000
+UXM;"{""model_name"": ""Embraer E190"", ""manufacturer"": ""Embraer"", ""capacity"": 100, ""year_of_manufacture"": 2016}";2900
+JQM;"{""model_name"": ""Bombardier Dash 8"", ""manufacturer"": ""Bombardier"", ""capacity"": 78, ""year_of_manufacture"": 2019}";3500
+PZR;"{""model_name"": ""Airbus A380"", ""manufacturer"": ""Airbus"", ""capacity"": 500, ""year_of_manufacture"": 2014}";8000
+BLZ;"{""model_name"": ""ATR 72"", ""manufacturer"": ""ATR"", ""capacity"": 70, ""year_of_manufacture"": 2018}";3200
+WHH;"{""model_name"": ""Airbus A310"", ""manufacturer"": ""Airbus"", ""capacity"": 280, ""year_of_manufacture"": 2014}";2000
+DSN;"{""model_name"": ""McDonnell Douglas MD-80"", ""manufacturer"": ""McDonnell Douglas"", ""capacity"": 150, ""year_of_manufacture"": 2014}";7000
+JWF;"{""model_name"": ""Boeing 757"", ""manufacturer"": ""Boeing"", ""capacity"": 200, ""year_of_manufacture"": 2015}";2900
+NXU;"{""model_name"": ""Boeing 787"", ""manufacturer"": ""Boeing"", ""capacity"": 240, ""year_of_manufacture"": 2017}";3000
+AHU;"{""model_name"": ""Airbus A310"", ""manufacturer"": ""Airbus"", ""capacity"": 280, ""year_of_manufacture"": 2014}";5000
+JID;"{""model_name"": ""Boeing 777"", ""manufacturer"": ""Boeing"", ""capacity"": 300, ""year_of_manufacture"": 2018}";6000
+AVZ;"{""model_name"": ""Airbus A380"", ""manufacturer"": ""Airbus"", ""capacity"": 500, ""year_of_manufacture"": 2014}";2500
+TVT;"{""model_name"": ""McDonnell Douglas MD-80"", ""manufacturer"": ""McDonnell Douglas"", ""capacity"": 150, ""year_of_manufacture"": 2014}";8000
+QVY;"{""model_name"": ""Bombardier CRJ-200"", ""manufacturer"": ""Bombardier"", ""capacity"": 50, ""year_of_manufacture"": 2015}";3200
+MAV;"{""model_name"": ""Airbus A380"", ""manufacturer"": ""Airbus"", ""capacity"": 500, ""year_of_manufacture"": 2014}";3500
+KZD;"{""model_name"": ""Airbus A320"", ""manufacturer"": ""Airbus"", ""capacity"": 150, ""year_of_manufacture"": 2015}";7000
+ACC;"{""model_name"": ""McDonnell Douglas MD-80"", ""manufacturer"": ""McDonnell Douglas"", ""capacity"": 150, ""year_of_manufacture"": 2014}";6000
+WRO;"{""model_name"": ""Airbus A310"", ""manufacturer"": ""Airbus"", ""capacity"": 280, ""year_of_manufacture"": 2014}";8000
+IUN;"{""model_name"": ""Boeing 767"", ""manufacturer"": ""Boeing"", ""capacity"": 240, ""year_of_manufacture"": 2016}";4000
+GHY;"{""model_name"": ""McDonnell Douglas MD-80"", ""manufacturer"": ""McDonnell Douglas"", ""capacity"": 150, ""year_of_manufacture"": 2014}";8000
+HMP;"{""model_name"": ""Embraer E190"", ""manufacturer"": ""Embraer"", ""capacity"": 100, ""year_of_manufacture"": 2016}";4000
+DNX;"{""model_name"": ""Boeing 767"", ""manufacturer"": ""Boeing"", ""capacity"": 240, ""year_of_manufacture"": 2016}";2900
+TFN;"{""model_name"": ""Boeing 757"", ""manufacturer"": ""Boeing"", ""capacity"": 200, ""year_of_manufacture"": 2015}";3200
+MZY;"{""model_name"": ""Bombardier CRJ-200"", ""manufacturer"": ""Bombardier"", ""capacity"": 50, ""year_of_manufacture"": 2015}";2500
+NTS;"{""model_name"": ""Airbus A320"", ""manufacturer"": ""Airbus"", ""capacity"": 150, ""year_of_manufacture"": 2015}";3200
+FCF;"{""model_name"": ""Embraer E190"", ""manufacturer"": ""Embraer"", ""capacity"": 100, ""year_of_manufacture"": 2016}";7000
+OJX;"{""model_name"": ""Airbus A350"", ""manufacturer"": ""Airbus"", ""capacity"": 350, ""year_of_manufacture"": 2019}";4000
+GTH;"{""model_name"": ""Airbus A380"", ""manufacturer"": ""Airbus"", ""capacity"": 500, ""year_of_manufacture"": 2014}";8000
+EXY;"{""model_name"": ""ATR 72"", ""manufacturer"": ""ATR"", ""capacity"": 70, ""year_of_manufacture"": 2018}";5000
+YGD;"{""model_name"": ""Bombardier Dash 8"", ""manufacturer"": ""Bombardier"", ""capacity"": 78, ""year_of_manufacture"": 2019}";3200
+IOL;"{""model_name"": ""Boeing 777"", ""manufacturer"": ""Boeing"", ""capacity"": 300, ""year_of_manufacture"": 2018}";5800
+KSS;"{""model_name"": ""Bombardier Dash 8"", ""manufacturer"": ""Bombardier"", ""capacity"": 78, ""year_of_manufacture"": 2019}";2900
+SHS;"{""model_name"": ""Bombardier Dash 8"", ""manufacturer"": ""Bombardier"", ""capacity"": 78, ""year_of_manufacture"": 2019}";6000
+RHV;"{""model_name"": ""Boeing 787"", ""manufacturer"": ""Boeing"", ""capacity"": 240, ""year_of_manufacture"": 2017}";1500
+ARQ;"{""model_name"": ""Boeing 777"", ""manufacturer"": ""Boeing"", ""capacity"": 300, ""year_of_manufacture"": 2018}";3000
+DEQ;"{""model_name"": ""ATR 72"", ""manufacturer"": ""ATR"", ""capacity"": 70, ""year_of_manufacture"": 2018}";8000
+AWA;"{""model_name"": ""Boeing 777"", ""manufacturer"": ""Boeing"", ""capacity"": 300, ""year_of_manufacture"": 2018}";8000
+FSX;"{""model_name"": ""Boeing 787"", ""manufacturer"": ""Boeing"", ""capacity"": 240, ""year_of_manufacture"": 2017}";6000
+DII;"{""model_name"": ""Boeing 787"", ""manufacturer"": ""Boeing"", ""capacity"": 240, ""year_of_manufacture"": 2017}";2000
+JMU;"{""model_name"": ""Boeing 787"", ""manufacturer"": ""Boeing"", ""capacity"": 240, ""year_of_manufacture"": 2017}";4000
+DUM;"{""model_name"": ""Airbus A350"", ""manufacturer"": ""Airbus"", ""capacity"": 350, ""year_of_manufacture"": 2019}";5800
+RNU;"{""model_name"": ""Boeing 787"", ""manufacturer"": ""Boeing"", ""capacity"": 240, ""year_of_manufacture"": 2017}";2900
+DMC;"{""model_name"": ""Airbus A380"", ""manufacturer"": ""Airbus"", ""capacity"": 500, ""year_of_manufacture"": 2014}";8000
+ZTV;"{""model_name"": ""Airbus A350"", ""manufacturer"": ""Airbus"", ""capacity"": 350, ""year_of_manufacture"": 2019}";3500
+MWD;"{""model_name"": ""Airbus A350"", ""manufacturer"": ""Airbus"", ""capacity"": 350, ""year_of_manufacture"": 2019}";6000
+NDI;"{""model_name"": ""McDonnell Douglas MD-80"", ""manufacturer"": ""McDonnell Douglas"", ""capacity"": 150, ""year_of_manufacture"": 2014}";1500
+KXV;"{""model_name"": ""Airbus A380"", ""manufacturer"": ""Airbus"", ""capacity"": 500, ""year_of_manufacture"": 2014}";3000
+QZF;"{""model_name"": ""Embraer E190"", ""manufacturer"": ""Embraer"", ""capacity"": 100, ""year_of_manufacture"": 2016}";5000
+DEA;"{""model_name"": ""Boeing 787"", ""manufacturer"": ""Boeing"", ""capacity"": 240, ""year_of_manufacture"": 2017}";2500
+RYD;"{""model_name"": ""Airbus A320"", ""manufacturer"": ""Airbus"", ""capacity"": 150, ""year_of_manufacture"": 2015}";2900
+KQY;"{""model_name"": ""Airbus A310"", ""manufacturer"": ""Airbus"", ""capacity"": 280, ""year_of_manufacture"": 2014}";1500
+CZE;"{""model_name"": ""Boeing 777"", ""manufacturer"": ""Boeing"", ""capacity"": 300, ""year_of_manufacture"": 2018}";2500
+GYH;"{""model_name"": ""Boeing 777"", ""manufacturer"": ""Boeing"", ""capacity"": 300, ""year_of_manufacture"": 2018}";3000
+KKY;"{""model_name"": ""Embraer E190"", ""manufacturer"": ""Embraer"", ""capacity"": 100, ""year_of_manufacture"": 2016}";1500
+DOP;"{""model_name"": ""Airbus A220"", ""manufacturer"": ""Airbus"", ""capacity"": 130, ""year_of_manufacture"": 2017}";3500
+SQL;"{""model_name"": ""Bombardier Dash 8"", ""manufacturer"": ""Bombardier"", ""capacity"": 78, ""year_of_manufacture"": 2019}";2000
+IZL;"{""model_name"": ""Boeing 757"", ""manufacturer"": ""Boeing"", ""capacity"": 200, ""year_of_manufacture"": 2015}";8000
+JDV;"{""model_name"": ""Airbus A310"", ""manufacturer"": ""Airbus"", ""capacity"": 280, ""year_of_manufacture"": 2014}";3200
+SAI;"{""model_name"": ""Airbus A350"", ""manufacturer"": ""Airbus"", ""capacity"": 350, ""year_of_manufacture"": 2019}";2500
+DLT;"{""model_name"": ""Airbus A320"", ""manufacturer"": ""Airbus"", ""capacity"": 150, ""year_of_manufacture"": 2015}";4000
+YXR;"{""model_name"": ""Bombardier CRJ-200"", ""manufacturer"": ""Bombardier"", ""capacity"": 50, ""year_of_manufacture"": 2015}";2500
+KTZ;"{""model_name"": ""Bombardier Dash 8"", ""manufacturer"": ""Bombardier"", ""capacity"": 78, ""year_of_manufacture"": 2019}";5000
+HOP;"{""model_name"": ""Bombardier CRJ-200"", ""manufacturer"": ""Bombardier"", ""capacity"": 50, ""year_of_manufacture"": 2015}";2500
+IDP;"{""model_name"": ""Boeing 767"", ""manufacturer"": ""Boeing"", ""capacity"": 240, ""year_of_manufacture"": 2016}";8000
+WJA;"{""model_name"": ""Bombardier CRJ-200"", ""manufacturer"": ""Bombardier"", ""capacity"": 50, ""year_of_manufacture"": 2015}";3000
+YNW;"{""model_name"": ""Airbus A380"", ""manufacturer"": ""Airbus"", ""capacity"": 500, ""year_of_manufacture"": 2014}";8000
+LTO;"{""model_name"": ""Airbus A220"", ""manufacturer"": ""Airbus"", ""capacity"": 130, ""year_of_manufacture"": 2017}";1500
+LJQ;"{""model_name"": ""Airbus A220"", ""manufacturer"": ""Airbus"", ""capacity"": 130, ""year_of_manufacture"": 2017}";3500
+KUH;"{""model_name"": ""Airbus A380"", ""manufacturer"": ""Airbus"", ""capacity"": 500, ""year_of_manufacture"": 2014}";3200
+EME;"{""model_name"": ""Airbus A350"", ""manufacturer"": ""Airbus"", ""capacity"": 350, ""year_of_manufacture"": 2019}";3000
+UPD;"{""model_name"": ""Bombardier CRJ-200"", ""manufacturer"": ""Bombardier"", ""capacity"": 50, ""year_of_manufacture"": 2015}";3200
+DLF;"{""model_name"": ""ATR 72"", ""manufacturer"": ""ATR"", ""capacity"": 70, ""year_of_manufacture"": 2018}";1500
+QQF;"{""model_name"": ""Airbus A320"", ""manufacturer"": ""Airbus"", ""capacity"": 150, ""year_of_manufacture"": 2015}";8000
+UMZ;"{""model_name"": ""Boeing 767"", ""manufacturer"": ""Boeing"", ""capacity"": 240, ""year_of_manufacture"": 2016}";4000
+IEP;"{""model_name"": ""Embraer E190"", ""manufacturer"": ""Embraer"", ""capacity"": 100, ""year_of_manufacture"": 2016}";8000
+IMC;"{""model_name"": ""Airbus A310"", ""manufacturer"": ""Airbus"", ""capacity"": 280, ""year_of_manufacture"": 2014}";4000
+FMD;"{""model_name"": ""Airbus A310"", ""manufacturer"": ""Airbus"", ""capacity"": 280, ""year_of_manufacture"": 2014}";4000
+WNM;"{""model_name"": ""Boeing 777"", ""manufacturer"": ""Boeing"", ""capacity"": 300, ""year_of_manufacture"": 2018}";6000
+QKP;"{""model_name"": ""ATR 72"", ""manufacturer"": ""ATR"", ""capacity"": 70, ""year_of_manufacture"": 2018}";4000
+QCS;"{""model_name"": ""Airbus A220"", ""manufacturer"": ""Airbus"", ""capacity"": 130, ""year_of_manufacture"": 2017}";8000
+GHW;"{""model_name"": ""Airbus A220"", ""manufacturer"": ""Airbus"", ""capacity"": 130, ""year_of_manufacture"": 2017}";1500
+OPA;"{""model_name"": ""Boeing 737"", ""manufacturer"": ""Boeing"", ""capacity"": 180, ""year_of_manufacture"": 2016}";3500
+PWI;"{""model_name"": ""Airbus A350"", ""manufacturer"": ""Airbus"", ""capacity"": 350, ""year_of_manufacture"": 2019}";4000
+NJQ;"{""model_name"": ""Embraer E190"", ""manufacturer"": ""Embraer"", ""capacity"": 100, ""year_of_manufacture"": 2016}";6000
+UGH;"{""model_name"": ""Bombardier Dash 8"", ""manufacturer"": ""Bombardier"", ""capacity"": 78, ""year_of_manufacture"": 2019}";2000
+HYK;"{""model_name"": ""Airbus A380"", ""manufacturer"": ""Airbus"", ""capacity"": 500, ""year_of_manufacture"": 2014}";5800
+TAQ;"{""model_name"": ""Boeing 787"", ""manufacturer"": ""Boeing"", ""capacity"": 240, ""year_of_manufacture"": 2017}";4000
+RZL;"{""model_name"": ""Boeing 777"", ""manufacturer"": ""Boeing"", ""capacity"": 300, ""year_of_manufacture"": 2018}";4000
+EMQ;"{""model_name"": ""Embraer E190"", ""manufacturer"": ""Embraer"", ""capacity"": 100, ""year_of_manufacture"": 2016}";6000
+IER;"{""model_name"": ""Airbus A310"", ""manufacturer"": ""Airbus"", ""capacity"": 280, ""year_of_manufacture"": 2014}";6000
+XNO;"{""model_name"": ""Bombardier Dash 8"", ""manufacturer"": ""Bombardier"", ""capacity"": 78, ""year_of_manufacture"": 2019}";1500
+LVU;"{""model_name"": ""Boeing 787"", ""manufacturer"": ""Boeing"", ""capacity"": 240, ""year_of_manufacture"": 2017}";2500
+ZDO;"{""model_name"": ""ATR 72"", ""manufacturer"": ""ATR"", ""capacity"": 70, ""year_of_manufacture"": 2018}";5000
+ZKJ;"{""model_name"": ""Airbus A310"", ""manufacturer"": ""Airbus"", ""capacity"": 280, ""year_of_manufacture"": 2014}";2500
+THF;"{""model_name"": ""Boeing 787"", ""manufacturer"": ""Boeing"", ""capacity"": 240, ""year_of_manufacture"": 2017}";8000
+OGQ;"{""model_name"": ""ATR 72"", ""manufacturer"": ""ATR"", ""capacity"": 70, ""year_of_manufacture"": 2018}";4000
+DSV;"{""model_name"": ""Boeing 757"", ""manufacturer"": ""Boeing"", ""capacity"": 200, ""year_of_manufacture"": 2015}";2900
+QIE;"{""model_name"": ""Airbus A350"", ""manufacturer"": ""Airbus"", ""capacity"": 350, ""year_of_manufacture"": 2019}";2000
+FHA;"{""model_name"": ""Boeing 777"", ""manufacturer"": ""Boeing"", ""capacity"": 300, ""year_of_manufacture"": 2018}";4000
+GTB;"{""model_name"": ""Boeing 777"", ""manufacturer"": ""Boeing"", ""capacity"": 300, ""year_of_manufacture"": 2018}";4000
+JHY;"{""model_name"": ""Boeing 787"", ""manufacturer"": ""Boeing"", ""capacity"": 240, ""year_of_manufacture"": 2017}";3000
+OJV;"{""model_name"": ""ATR 72"", ""manufacturer"": ""ATR"", ""capacity"": 70, ""year_of_manufacture"": 2018}";2000
+HXY;"{""model_name"": ""Boeing 767"", ""manufacturer"": ""Boeing"", ""capacity"": 240, ""year_of_manufacture"": 2016}";8000
+NVB;"{""model_name"": ""Boeing 757"", ""manufacturer"": ""Boeing"", ""capacity"": 200, ""year_of_manufacture"": 2015}";3500
+WLC;"{""model_name"": ""Airbus A310"", ""manufacturer"": ""Airbus"", ""capacity"": 280, ""year_of_manufacture"": 2014}";5000
+JWE;"{""model_name"": ""Airbus A320"", ""manufacturer"": ""Airbus"", ""capacity"": 150, ""year_of_manufacture"": 2015}";2500
+PLY;"{""model_name"": ""ATR 72"", ""manufacturer"": ""ATR"", ""capacity"": 70, ""year_of_manufacture"": 2018}";6000
+BMN;"{""model_name"": ""Boeing 777"", ""manufacturer"": ""Boeing"", ""capacity"": 300, ""year_of_manufacture"": 2018}";2500
+LKN;"{""model_name"": ""Boeing 777"", ""manufacturer"": ""Boeing"", ""capacity"": 300, ""year_of_manufacture"": 2018}";2500
+GNA;"{""model_name"": ""Bombardier CRJ-200"", ""manufacturer"": ""Bombardier"", ""capacity"": 50, ""year_of_manufacture"": 2015}";1500
+LQQ;"{""model_name"": ""Bombardier Dash 8"", ""manufacturer"": ""Bombardier"", ""capacity"": 78, ""year_of_manufacture"": 2019}";2900
+DQV;"{""model_name"": ""Airbus A350"", ""manufacturer"": ""Airbus"", ""capacity"": 350, ""year_of_manufacture"": 2019}";3000
+MOO;"{""model_name"": ""Boeing 777"", ""manufacturer"": ""Boeing"", ""capacity"": 300, ""year_of_manufacture"": 2018}";1500
+KJC;"{""model_name"": ""McDonnell Douglas MD-80"", ""manufacturer"": ""McDonnell Douglas"", ""capacity"": 150, ""year_of_manufacture"": 2014}";3000
+WXB;"{""model_name"": ""Boeing 777"", ""manufacturer"": ""Boeing"", ""capacity"": 300, ""year_of_manufacture"": 2018}";3500
+YHI;"{""model_name"": ""Embraer E190"", ""manufacturer"": ""Embraer"", ""capacity"": 100, ""year_of_manufacture"": 2016}";2500
+IAO;"{""model_name"": ""ATR 72"", ""manufacturer"": ""ATR"", ""capacity"": 70, ""year_of_manufacture"": 2018}";1500
+ZAO;"{""model_name"": ""Boeing 767"", ""manufacturer"": ""Boeing"", ""capacity"": 240, ""year_of_manufacture"": 2016}";8000
+YIB;"{""model_name"": ""Boeing 777"", ""manufacturer"": ""Boeing"", ""capacity"": 300, ""year_of_manufacture"": 2018}";5000
+QPG;"{""model_name"": ""Bombardier CRJ-200"", ""manufacturer"": ""Bombardier"", ""capacity"": 50, ""year_of_manufacture"": 2015}";4000
+CCM;"{""model_name"": ""Boeing 767"", ""manufacturer"": ""Boeing"", ""capacity"": 240, ""year_of_manufacture"": 2016}";3200
+MZN;"{""model_name"": ""Embraer E190"", ""manufacturer"": ""Embraer"", ""capacity"": 100, ""year_of_manufacture"": 2016}";1500
+REM;"{""model_name"": ""ATR 72"", ""manufacturer"": ""ATR"", ""capacity"": 70, ""year_of_manufacture"": 2018}";4000
+JVA;"{""model_name"": ""Boeing 777"", ""manufacturer"": ""Boeing"", ""capacity"": 300, ""year_of_manufacture"": 2018}";8000
+QUZ;"{""model_name"": ""Boeing 737"", ""manufacturer"": ""Boeing"", ""capacity"": 180, ""year_of_manufacture"": 2016}";5000
+XXA;"{""model_name"": ""Bombardier Dash 8"", ""manufacturer"": ""Bombardier"", ""capacity"": 78, ""year_of_manufacture"": 2019}";8000
+LHN;"{""model_name"": ""Boeing 757"", ""manufacturer"": ""Boeing"", ""capacity"": 200, ""year_of_manufacture"": 2015}";6000
+BWG;"{""model_name"": ""Boeing 767"", ""manufacturer"": ""Boeing"", ""capacity"": 240, ""year_of_manufacture"": 2016}";8000
+GUT;"{""model_name"": ""Boeing 767"", ""manufacturer"": ""Boeing"", ""capacity"": 240, ""year_of_manufacture"": 2016}";2900
+WZZ;"{""model_name"": ""Boeing 777"", ""manufacturer"": ""Boeing"", ""capacity"": 300, ""year_of_manufacture"": 2018}";2000
+XXY;"{""model_name"": ""Bombardier CRJ-200"", ""manufacturer"": ""Bombardier"", ""capacity"": 50, ""year_of_manufacture"": 2015}";8000
+XCQ;"{""model_name"": ""ATR 72"", ""manufacturer"": ""ATR"", ""capacity"": 70, ""year_of_manufacture"": 2018}";3000
+HLP;"{""model_name"": ""Airbus A350"", ""manufacturer"": ""Airbus"", ""capacity"": 350, ""year_of_manufacture"": 2019}";5000
+WEV;"{""model_name"": ""Embraer E190"", ""manufacturer"": ""Embraer"", ""capacity"": 100, ""year_of_manufacture"": 2016}";1500
+DJM;"{""model_name"": ""Airbus A320"", ""manufacturer"": ""Airbus"", ""capacity"": 150, ""year_of_manufacture"": 2015}";3200
+WLM;"{""model_name"": ""Bombardier CRJ-200"", ""manufacturer"": ""Bombardier"", ""capacity"": 50, ""year_of_manufacture"": 2015}";5800
+USE;"{""model_name"": ""Boeing 757"", ""manufacturer"": ""Boeing"", ""capacity"": 200, ""year_of_manufacture"": 2015}";2900
+UZR;"{""model_name"": ""Boeing 757"", ""manufacturer"": ""Boeing"", ""capacity"": 200, ""year_of_manufacture"": 2015}";6000
+GPA;"{""model_name"": ""McDonnell Douglas MD-80"", ""manufacturer"": ""McDonnell Douglas"", ""capacity"": 150, ""year_of_manufacture"": 2014}";5000
+LDI;"{""model_name"": ""Boeing 787"", ""manufacturer"": ""Boeing"", ""capacity"": 240, ""year_of_manufacture"": 2017}";2000
+BNO;"{""model_name"": ""Bombardier Dash 8"", ""manufacturer"": ""Bombardier"", ""capacity"": 78, ""year_of_manufacture"": 2019}";3200
+DBF;"{""model_name"": ""Airbus A380"", ""manufacturer"": ""Airbus"", ""capacity"": 500, ""year_of_manufacture"": 2014}";8000
+BYG;"{""model_name"": ""Airbus A320"", ""manufacturer"": ""Airbus"", ""capacity"": 150, ""year_of_manufacture"": 2015}";3000

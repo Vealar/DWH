@@ -1,0 +1,67 @@
+airport_code;airport_name;city;coordinates_lon;coordinates_lat;timezone
+ABA;Abakan International Airport;Abakan;91.4263;53.7283;+07:00
+ADH;Aldan Airport;Aldan;142.7764;65.016;+09:00
+AMV;Amur Marsh Airport;Amur Marsh;127.5434;55.0008;+12:00
+DYR;Dyrenkha Airport;Dyrenkha;142.7714;63.0507;+07:00
+AAQ;Anapa Airport;Anapa;37.279;44.2197;+03:00
+KVK;Kovykta Airport;Kovykta;103.4832;53.6061;+07:00
+ARH;Arkhangelsk Airport;Arkhangelsk;40.5702;64.5391;+03:00
+ASF;Astrakhan Airport;Astrakhan;47.1735;46.1855;+03:00
+ACS;Achinsk Airport;Achinsk;90.4856;52.6991;+07:00
+BAX;Barnaul Airport;Barnaul;83.7635;51.6891;+08:00
+EGO;Egorievsk Airport;Egorievsk;38.2573;52.0267;+05:00
+BCX;Bachatsky Airport;Bachatsky;87.6581;56.495;+03:00
+BQS;Bryansk Airport;Bryansk;34.3199;53.1186;+10:00
+TGP;Tunguska Airport;Tunguska;94.7262;53.9301;+03:00
+BTK;Bratsk Airport;Bratsk;101.6316;56.2772;+03:00
+BZK;Borzya Airport;Borzya;111.4361;53.4734;+03:00
+UUA;Ulyanovsk Vostochny Airport;Ulyanovsk;45.719;50.0969;+11:00
+BVV;Balashov Airport;Balashov;49.4051;51.1263;+09:00
+VLU;Vladivostok International Airport;Vladivostok;131.8721;43.1608;+05:00
+VUS;Vnukovo International Airport;Vnukovo;131.9311;43.2151;+07:00
+VVO;Vladivostok International Airport;Vladivostok;39.6948;42.0525;+05:00
+OGZ;Beslan Airport;Beslan;92.3373;43.1215;+08:00
+IWA;Iwamizawa Airport;Iwamizawa;141.7833;44.9828;+07:00
+IAA;Igarka Airport;Igarka;154.0425;54.9328;+07:00
+IJK;Izhma Airport;Izhma;82.716;57.6635;+10:00
+INA;Inari Airport;Inari;46.6203;50.2588;+07:00
+IKT;Irkutsk International Airport;Irkutsk;101.6117;45.9883;+07:00
+JOK;Joakim M. J. Airport;Joakim;89.6515;53.7482;+12:00
+KZN;Kazan International Airport;Kazan;49.0335;50.164;+03:00
+KGD;Kaliningrad Khrabrovo Airport;Kaliningrad;60.0301;61.5338;+07:00
+KEJ;Kemerovo International Airport;Kemerovo;76.0765;63.108;+10:00
+KVX;Kirov Airport;Kirov;60.4698;58.689;+03:00
+KGP;Krasnogorsk Airport;Krasnogorsk;55.0541;49.2258;+10:00
+KXK;Kushva Airport;Kushva;63.8498;46.1453;+03:00
+KMW;Kamensk-Uralsky Airport;Kamensk-Uralsky;57.0168;60.868;+07:00
+KSZ;Kostroma Airport;Kostroma;55.3683;47.8939;+09:00
+KRR;Krasnodar International Airport;Krasnodar;42.7469;44.1876;+10:00
+KYN;Kansk Airport;Kansk;48.2582;52.8502;+07:00
+KGA;Krasnoyarsk Airport;Krasnoyarsk;72.3134;58.9506;+05:00
+MQF;Makhachkala Airport;Makhachkala;41.7126;54.5292;+05:00
+MCX;Makhachkala Airport;Makhachkala;32.0676;57.1583;+03:00
+LDG;Londonderry Airport;Londonderry;30.1983;57.1415;+09:00
+MRV;Mineralnye Vody Airport;Mineralnye Vody;51.7253;54.7763;+03:00
+MJZ;Mozdok Airport;Mozdok;41.0251;53.5302;+08:00
+BKA;Bryansk Airport;Bryansk;36.6573;52.877;+10:00
+VKO;Vnukovo International Airport;Vnukovo;60.5862;43.487;+03:00
+DME;Domodedovo International Airport;Domodedovo;83.7864;58.146;+03:00
+MMK;Magadan Airport;Magadan;33.7377;53.4505;+03:00
+NYM;Naryan-Mar Airport;Naryan-Mar;50.0632;58.8534;+03:00
+NAL;Nalya Airport;Nalya;39.1344;51.5288;+03:00
+NNM;Nizhny Novgorod Airport;Nizhny Novgorod;41.4853;53.597;+03:00
+CNN;Cherepovets Airport;Cherepovets;45.162;54.411;+07:00
+NJC;Nizhnevartovsk Airport;Nizhnevartovsk;35.1296;49.2945;+12:00
+NBC;Novy Urengoy Airport;Novy Urengoy;27.1444;44.8042;+10:00
+GOJ;Nizhny Novgorod International Airport;Nizhny Novgorod;37.5863;56.802;+03:00
+NIK;Nikolaevsk-on-Amur Airport;Nikolaevsk-on-Amur;82.7356;52.7313;+09:00
+NOZ;Novosibirsk Airport;Novosibirsk;53.612;53.8911;+09:00
+OHH;Olenegorsk Airport;Olenegorsk;73.9526;44.1508;+09:00
+OHO;Okhotsk Airport;Okhotsk;45.9245;48.1836;+10:00
+PWE;Pervouralsk Airport;Pervouralsk;48.2716;55.5833;+10:00
+PEZ;Petrozavodsk Airport;Petrozavodsk;51.4893;45.3024;+09:00
+PEE;Penza Airport;Penza;41.0804;47.1439;+03:00
+PES;Peshchanka Airport;Peshchanka;48.5181;42.1235;+10:00
+PKC;Pechora Airport;Pechora;47.9772;56.8101;+09:00
+PEX;Perm International Airport;Perm;46.4465;47.4523;+07:00
+PVS;Pervomaisk Airport;Pervomaisk;50.6682;54.9947;+07:00

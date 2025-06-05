@@ -1,0 +1,33 @@
+services:
+  postgres_master:
+    container_name: postgres_master
+    image: postgres:latest
+    restart: always
+    volumes:
+      - ./data:/var/lib/postgresql/data
+      - ./data-slave:/var/lib/postgresql/data-slave
+
+      - ./data_init:/data_init
+      - ./create.sql:/docker-entrypoint-initdb.d/create.sql
+      - ./init.sql:/docker-entrypoint-initdb.d/init.sql
+
+      - ./init-script:/etc/postgresql/init-script
+
+      - ./bash-scripts:/etc/postgresql/bash-scripts
+    ports:
+      - "127.0.0.1:5433:5432"
+    environment:
+      - POSTGRES_USER=postgres
+      - POSTGRES_PASSWORD=postgres
+
+  postgres_slave:
+    container_name: postgres_slave
+    image: postgres:latest
+    restart: always
+    volumes:
+      - ./data-slave:/var/lib/postgresql/data
+    ports:
+      - "127.0.0.1:5434:5432"
+    environment:
+      - POSTGRES_USER=postgres
+      - POSTGRES_PASSWORD=postgres
